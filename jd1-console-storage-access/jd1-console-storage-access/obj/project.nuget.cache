@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "TmWB0TxOgB5Sp8vTAz3f6KHcZd8IUq1NOZGRP61NXXGY69osGZDIF9E3qD/0biTFvUNZBwy8JSdYCqM9jbLpLA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\jayakumard\\Desktop\\Jay\\jd1-console-storage-access\\jd1-console-storage-access\\jd1-console-storage-access.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\jayakumard\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
+    "D:\\Users\\jayakumard\\.nuget\\packages\\azure.storage.blobs\\12.18.0\\azure.storage.blobs.12.18.0.nupkg.sha512",
+    "D:\\Users\\jayakumard\\.nuget\\packages\\azure.storage.common\\12.17.0\\azure.storage.common.12.17.0.nupkg.sha512",
+    "D:\\Users\\jayakumard\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "D:\\Users\\jayakumard\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "D:\\Users\\jayakumard\\.nuget\\packages\\system.io.hashing\\6.0.0\\system.io.hashing.6.0.0.nupkg.sha512",
+    "D:\\Users\\jayakumard\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "D:\\Users\\jayakumard\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "D:\\Users\\jayakumard\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "D:\\Users\\jayakumard\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "D:\\Users\\jayakumard\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "D:\\Users\\jayakumard\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "demo_function_queue": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7185",
+      "launchBrowser": false
+    }
+  }
+}

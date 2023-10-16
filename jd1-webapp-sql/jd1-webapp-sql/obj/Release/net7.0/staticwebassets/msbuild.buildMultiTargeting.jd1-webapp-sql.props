@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\jd1-webapp-sql.props" />
+</Project>

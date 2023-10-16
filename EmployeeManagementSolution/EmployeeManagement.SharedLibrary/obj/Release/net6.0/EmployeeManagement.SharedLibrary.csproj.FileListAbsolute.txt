@@ -1,0 +1,12 @@
+D:\Users\jayakumard\Desktop\Jay\EmployeeManagementSolution\EmployeeManagement.SharedLibrary\bin\Release\net6.0\EmployeeManagement.SharedLibrary.deps.json
+D:\Users\jayakumard\Desktop\Jay\EmployeeManagementSolution\EmployeeManagement.SharedLibrary\bin\Release\net6.0\EmployeeManagement.SharedLibrary.dll
+D:\Users\jayakumard\Desktop\Jay\EmployeeManagementSolution\EmployeeManagement.SharedLibrary\bin\Release\net6.0\EmployeeManagement.SharedLibrary.pdb
+D:\Users\jayakumard\Desktop\Jay\EmployeeManagementSolution\EmployeeManagement.SharedLibrary\obj\Release\net6.0\EmployeeManagement.SharedLibrary.csproj.AssemblyReference.cache
+D:\Users\jayakumard\Desktop\Jay\EmployeeManagementSolution\EmployeeManagement.SharedLibrary\obj\Release\net6.0\EmployeeManagement.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jayakumard\Desktop\Jay\EmployeeManagementSolution\EmployeeManagement.SharedLibrary\obj\Release\net6.0\EmployeeManagement.SharedLibrary.AssemblyInfoInputs.cache
+D:\Users\jayakumard\Desktop\Jay\EmployeeManagementSolution\EmployeeManagement.SharedLibrary\obj\Release\net6.0\EmployeeManagement.SharedLibrary.AssemblyInfo.cs
+D:\Users\jayakumard\Desktop\Jay\EmployeeManagementSolution\EmployeeManagement.SharedLibrary\obj\Release\net6.0\EmployeeManagement.SharedLibrary.csproj.CoreCompileInputs.cache
+D:\Users\jayakumard\Desktop\Jay\EmployeeManagementSolution\EmployeeManagement.SharedLibrary\obj\Release\net6.0\EmployeeManagement.SharedLibrary.dll
+D:\Users\jayakumard\Desktop\Jay\EmployeeManagementSolution\EmployeeManagement.SharedLibrary\obj\Release\net6.0\refint\EmployeeManagement.SharedLibrary.dll
+D:\Users\jayakumard\Desktop\Jay\EmployeeManagementSolution\EmployeeManagement.SharedLibrary\obj\Release\net6.0\EmployeeManagement.SharedLibrary.pdb
+D:\Users\jayakumard\Desktop\Jay\EmployeeManagementSolution\EmployeeManagement.SharedLibrary\obj\Release\net6.0\ref\EmployeeManagement.SharedLibrary.dll

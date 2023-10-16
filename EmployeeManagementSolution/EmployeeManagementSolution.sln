@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagementSolution", "EmployeeManagementSolution\EmployeeManagementSolution.csproj", "{C3E23274-1B57-427B-AE8F-2AD2BFA2F794}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagement.SharedLibrary", "EmployeeManagement.SharedLibrary\EmployeeManagement.SharedLibrary.csproj", "{B6F935C3-E41B-4B4C-9F3D-254E0A0DD4B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.ThumbnailGenerator", "EmployeeManagement.ThumbnailGenerator\EmployeeManagement.ThumbnailGenerator.csproj", "{73632432-5EE4-487D-9E20-E3F209657B15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3E23274-1B57-427B-AE8F-2AD2BFA2F794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E23274-1B57-427B-AE8F-2AD2BFA2F794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E23274-1B57-427B-AE8F-2AD2BFA2F794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E23274-1B57-427B-AE8F-2AD2BFA2F794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F935C3-E41B-4B4C-9F3D-254E0A0DD4B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F935C3-E41B-4B4C-9F3D-254E0A0DD4B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F935C3-E41B-4B4C-9F3D-254E0A0DD4B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F935C3-E41B-4B4C-9F3D-254E0A0DD4B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73632432-5EE4-487D-9E20-E3F209657B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73632432-5EE4-487D-9E20-E3F209657B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73632432-5EE4-487D-9E20-E3F209657B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73632432-5EE4-487D-9E20-E3F209657B15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB7741E9-C991-45A3-8FB7-79663EFDEDA9}
+	EndGlobalSection
+EndGlobal

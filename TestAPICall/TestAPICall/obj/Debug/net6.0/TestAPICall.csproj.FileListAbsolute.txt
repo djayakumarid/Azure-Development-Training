@@ -1,0 +1,14 @@
+D:\Users\jayakumard\Desktop\Jay\TestAPICall\TestAPICall\bin\Debug\net6.0\TestAPICall.exe
+D:\Users\jayakumard\Desktop\Jay\TestAPICall\TestAPICall\bin\Debug\net6.0\TestAPICall.deps.json
+D:\Users\jayakumard\Desktop\Jay\TestAPICall\TestAPICall\bin\Debug\net6.0\TestAPICall.runtimeconfig.json
+D:\Users\jayakumard\Desktop\Jay\TestAPICall\TestAPICall\bin\Debug\net6.0\TestAPICall.dll
+D:\Users\jayakumard\Desktop\Jay\TestAPICall\TestAPICall\bin\Debug\net6.0\TestAPICall.pdb
+D:\Users\jayakumard\Desktop\Jay\TestAPICall\TestAPICall\obj\Debug\net6.0\TestAPICall.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jayakumard\Desktop\Jay\TestAPICall\TestAPICall\obj\Debug\net6.0\TestAPICall.AssemblyInfoInputs.cache
+D:\Users\jayakumard\Desktop\Jay\TestAPICall\TestAPICall\obj\Debug\net6.0\TestAPICall.AssemblyInfo.cs
+D:\Users\jayakumard\Desktop\Jay\TestAPICall\TestAPICall\obj\Debug\net6.0\TestAPICall.csproj.CoreCompileInputs.cache
+D:\Users\jayakumard\Desktop\Jay\TestAPICall\TestAPICall\obj\Debug\net6.0\TestAPICall.dll
+D:\Users\jayakumard\Desktop\Jay\TestAPICall\TestAPICall\obj\Debug\net6.0\refint\TestAPICall.dll
+D:\Users\jayakumard\Desktop\Jay\TestAPICall\TestAPICall\obj\Debug\net6.0\TestAPICall.pdb
+D:\Users\jayakumard\Desktop\Jay\TestAPICall\TestAPICall\obj\Debug\net6.0\TestAPICall.genruntimeconfig.cache
+D:\Users\jayakumard\Desktop\Jay\TestAPICall\TestAPICall\obj\Debug\net6.0\ref\TestAPICall.dll

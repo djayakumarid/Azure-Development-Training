@@ -1,0 +1,7 @@
+D:\Users\jayakumard\Desktop\Jay\jd1-webapp\jd1-webapp\obj\Debug\net7.0\PubTmp\Out\jd1-webapp.exe
+D:\Users\jayakumard\Desktop\Jay\jd1-webapp\jd1-webapp\obj\Debug\net7.0\PubTmp\Out\appsettings.Development.json
+D:\Users\jayakumard\Desktop\Jay\jd1-webapp\jd1-webapp\obj\Debug\net7.0\PubTmp\Out\appsettings.json
+D:\Users\jayakumard\Desktop\Jay\jd1-webapp\jd1-webapp\obj\Debug\net7.0\PubTmp\Out\jd1-webapp.dll
+D:\Users\jayakumard\Desktop\Jay\jd1-webapp\jd1-webapp\obj\Debug\net7.0\PubTmp\Out\jd1-webapp.deps.json
+D:\Users\jayakumard\Desktop\Jay\jd1-webapp\jd1-webapp\obj\Debug\net7.0\PubTmp\Out\jd1-webapp.runtimeconfig.json
+D:\Users\jayakumard\Desktop\Jay\jd1-webapp\jd1-webapp\obj\Debug\net7.0\PubTmp\Out\jd1-webapp.pdb

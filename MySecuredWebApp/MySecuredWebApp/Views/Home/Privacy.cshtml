@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>JD1 Use this page to detail your site's privacy policy.</p>
+
+<link href="@Url.Content("~/Content/bootstrap.min.css")" rel="stylesheet" type="text/css" />
+<h3>All Claims:</h3>
+<table class="table table-striped table-bordered table-hover table-condensed">
+    @foreach (var claim in ((System.Security.Claims.ClaimsIdentity)User.Identity).Claims)
+    {
+        <tr><td>@claim.Type</td><td>@claim.Value</td></tr>
+    }
+</table>
+<br />
+<br />
+@Html.ActionLink("Sign out", "SignOut", "Account", null, new { @class = "btn btn-primary" })
+
